@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns ="http://www.w3.org/ns/widgets"
     xmlns:gap ="http://phonegap.com/ns/1.0"
-    id        ="com.desenvolvimento.App_Andriod_AC06"
+    id        ="com.desenvolvimento.cerveja"
     version   ="1.0.0">
 
-<name>App_Andriod_AC06</name>
+<name>Cerveja</name>
 <description>Desenvolvimento de APK para realização AC06 - Interfaces Mobile</description>
 <author href="Guilherme Froes, Leonardo Soares, Luiz Fernando e Otavio Menhart"
         email="desenvolvimento.ope@gmail.com">
