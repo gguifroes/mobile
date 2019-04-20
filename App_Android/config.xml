@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns ="http://www.w3.org/ns/widgets"
+    xmlns:gap ="http://phonegap.com/ns/1.0"
+    id        =""
+    version   ="1.0.0">
+
+<name>App_Andriod_AC06</name>
+<description>Desenvolvimento de APK para realização AC06 - Interfaces Mobile</description>
+<author href="Guilherme Froes, Leonardo Soares, Luiz Fernando e Otavio Menhart"
+        email="desenvolvimento.ope@gmail.com">
+</author>
+<icon src="../images/appico.png" height="114" width="114"/>
+<icon src="../images/appico.png" height="72" width="72"/>
+<icon src="../images/appico.png" height="57" width="57"/>
+<icon src="../images/appico.png" height="48" width="48"/>
+<icon src="../images/appico.png" height="36" width="36"/>
+
+</widget>
